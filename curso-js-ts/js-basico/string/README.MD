@@ -1,0 +1,2 @@
+# STRING 
+## regras 📜
